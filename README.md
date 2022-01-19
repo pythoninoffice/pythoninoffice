@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently helping people learn Python with my blog pythoninoffice.com
+- 🔭 I’m currently helping people learn Python with my blog <a href="pythoninoffice.com">https://pythoninoffice.com</a>
 - 🌱 I’m currently learning machine learning and computer vision
-- 💬 Ask me about how to automate daily tasks in Python
+- 💬 Ask me about how to automate daily tasks and Excel automation in Python
 - 📫 How to reach me: pythoninoffice@gmail.com or discord: https://discord.gg/ChP87jJY7c
 - ⚡ Fun fact: I'm an Actuary by profession
 
