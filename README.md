@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently helping people learn Python with my blog <a href="pythoninoffice.com">https://pythoninoffice.com</a>
+- 🔭 I’m currently helping people learn Python with my blog <a href="pythoninoffice.com">https://pythoninoffice.com</a> and YouTube <a href="https://www.youtube.com/channel/UCbYfY7lMWKL5MSNdHsXo1YA">Python In Office</a> 
 - 🌱 I’m currently learning machine learning and computer vision
 - 💬 Ask me about how to automate daily tasks and Excel automation in Python
 - 📫 How to reach me: pythoninoffice@gmail.com or discord: https://discord.gg/ChP87jJY7c
