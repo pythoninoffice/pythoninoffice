@@ -2,7 +2,7 @@
 
 Let's make something people love to use!
 Current work:
-- Speech to text tool typewaveai.com
+- Speech to text tool <a href="typewaveai.com">https://typewaveai.com</a>
 
 <!--
 **pythoninoffice/pythoninoffice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
