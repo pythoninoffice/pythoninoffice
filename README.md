@@ -1,6 +1,8 @@
 ### All in AI and automation
 
-- Let's make something people love to use!
+Let's make something people love to use!
+Current work:
+- Speech to text tool typewaveai.com
 
 <!--
 **pythoninoffice/pythoninoffice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
